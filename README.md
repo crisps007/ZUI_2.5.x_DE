@@ -1,2 +1,2 @@
-# ZUI_2.3.x_DE
-German ZUI 2.3
+# ZUI_2.5.x_DE
+German ZUI 2.5
